@@ -1,3 +1,3 @@
-package discovery
+package discovery_client
 
 var ServiceInformations RegisterMicroserviceResponse

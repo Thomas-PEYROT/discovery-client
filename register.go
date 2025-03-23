@@ -1,4 +1,4 @@
-package discovery
+package discovery_client
 
 import (
 	"bytes"
