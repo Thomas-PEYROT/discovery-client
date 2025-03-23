@@ -1,4 +1,4 @@
-module github.com/Thomas-PEYROT/microservice-architecture/discovery-client
+module github.com/Thomas-PEYROT/discovery-client
 
 go 1.24
 
