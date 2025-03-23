@@ -1,0 +1,3 @@
+package discovery
+
+var ServiceInformations RegisterMicroserviceResponse
